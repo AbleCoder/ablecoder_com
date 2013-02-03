@@ -4,9 +4,28 @@ This is 2nd version of [AbleCoder.com](http://ablecoder.com) using the node.js b
 
 I'm also using [inuit.css](http://inuitcss.com/) (a powerful, scalable, Sass-based, BEM, OOCSS framework) as a foundation for my CSS.
 
-## Setup Instructions
+## Quick Start
 
-1. checkout repo
-2. install npm stuff
-3. get coding
-4. deploy to s3
+Checkout this repo:
+
+```bash
+$ git clone https://github.com/AbleCoder/ablecoder_com.git
+```
+
+Install npm requirements locally:
+
+```bash
+$ npm install
+```
+
+Start preview server
+
+```bash
+$ ./wintersmith preview
+```
+
+Get to work!
+
+## Deploy
+
+_to be continued…_

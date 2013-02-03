@@ -1,0 +1,19 @@
+{
+  "name": "ablecoder_com",
+  "version": "0.0.0",
+  "description": "The Wintersmith project that generates the static website files for AbleCoder.com",
+  "main": "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koders/cacheout.git"
+  },
+  "author": {
+    "name": "AbleCoder",
+    "email": "an.able.coder@gmail.com",
+    "web": "http://AbleCoder.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "wintersmith": "1.2.2"
+  }
+}
