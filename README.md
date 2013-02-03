@@ -6,10 +6,18 @@ I'm also using [inuit.css](http://inuitcss.com/) (a powerful, scalable, Sass-bas
 
 ## Quick Start
 
-Checkout this repo:
+Checkout this repo & submodules:
 
 ```bash
 $ git clone https://github.com/AbleCoder/ablecoder_com.git
+$ git submodule init
+$ git submodule update
+```
+
+Install Sass
+
+```bash
+gem install sass 
 ```
 
 Install npm requirements locally:
