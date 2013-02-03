@@ -13,6 +13,7 @@
  * in the browser. Set to `true` or `false`.
  */
 $debug-mode:        false!default;
+$debug-mode: true;
 
 
 /**
@@ -26,7 +27,7 @@ $global-border-box: true!default;
  * Would you like to use Adam Whitcroft’s Batch icon font, as per:
  * adamwhitcroft.com/batch ?
  */
-$batch:             false!default;
+$batch:             true!default;
 
 
 /**
@@ -51,7 +52,7 @@ $responsive:        true!default;
  * Responsiveness for widescreen/high resolution desktop monitors and beyond?
  * Note: $responsive parameter above must be enabled before enabling this.
  */
-$responsive-extra:  false!default;
+$responsive-extra:  true!default;
 
 /**
  * Responsive push and pull produce a LOT of code, only turn them on if you
@@ -112,6 +113,7 @@ $close-quote:   null;
  */
 $brand-color:       #4a8ec2!default;
 $brand-face:        "Helvetica Neue", sans-serif!default;
+$brand-face:        Ubuntu, sans-serif!default;
 
 
 /**
